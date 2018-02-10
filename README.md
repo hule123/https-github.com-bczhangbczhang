@@ -1,7 +1,8 @@
 #We are still partially improve the code. This is a demo for GCN on MNIST dataset using torch7
 
 To run this demo, you should  install these dependencies:
-```luarocks install torchnet
+```
+luarocks install torchnet
 luarocks install optnet
 ```
 
