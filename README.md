@@ -23,11 +23,13 @@ This demo is partially referenced to the code of Orientation Response Networks(O
 If you use this demo please cite our paper and ORN. 
 
 #bibtex:
+
 @article{Luan2016GCN,
   title={Gabor Convolutional Networks},
   author={Luan, Shangzhen and Zhang, Baochang and  Chen, Chen and Cao, Xianbin and Han, Jungong and Liu, Jianzhuang},
   year={2017},
 }
+
 @INPROCEEDINGS{Zhou2017ORN,
   title={Oriented Response Networks},
   author={Zhou, Yanzhao and Ye, Qixiang and Qiu, Qiang and Jiao, Jianbin},
