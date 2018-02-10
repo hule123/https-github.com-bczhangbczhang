@@ -1,4 +1,5 @@
-#A demo for GCN on MNIST dataset using torch7
+#We are still partially improve the code. This is a demo for GCN on MNIST dataset using torch7
+
 To run this demo, you should  install these dependencies:
 `luarocks install torchnet`
 `luarocks install optnet`
@@ -13,6 +14,7 @@ run this demo:
 ```bash
 cd $DIR/MNIST_demo
 bash ./scripts/Train_MNIST.sh
+```
 
 #The experimental results of the comparison algorithm are directly quoted from the corresponding papers. 
 
