@@ -1,4 +1,4 @@
-#We are still partially improve the code. This is a demo for GCN on MNIST dataset using torch7
+#We provide a demo for GCN on MNIST dataset using torch7 and also Pytorch.
 
 To run this demo, you should  install these dependencies:
 ```
