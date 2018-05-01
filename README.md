@@ -24,7 +24,7 @@ To run the pytorch branch, please refer to [this branch](https://github.com/bczh
 The experimental results of the comparison algorithm are directly quoted from the corresponding papers. 
 
 ## Acknowledgement
-This demo is partially based on the code of Orientation Response Networks(ORN,`http://zhouyanzhao.github.io/ORN/`)
+This demo is partially based on the code of [Orientation Response Networks](http://zhouyanzhao.github.io/ORN/).
 If you use this demo please cite our paper and ORN. 
 
 ## Bibtex
