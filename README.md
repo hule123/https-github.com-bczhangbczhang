@@ -1,4 +1,4 @@
-# WACV2018: Gabor Convolutional Networks
+# WACV2018/TIP: Gabor Convolutional Networks
 
 Official PyTorch implementation of Gabor CNN. 
 But all the results in the paper are based on [Torch 7](https://github.com/bczhangbczhang/Gabor-Convolutional-Networks).
@@ -24,5 +24,9 @@ cd demo
 python main.py --model gcn (--gpu 0)
 ```
 
+## Acknowledgement
+This branch was contributed and will be maintained by [@jxgu1016](https://github.com/jxgu1016), so any issues are recommended to be put on this [repo](https://github.com/jxgu1016/Gabor_CNN_PyTorch).
+
+
 ## Please cite:
-@article{Luan2016GCN, title={Gabor Convolutional Networks}, author={Luan, Shangzhen and Zhang, Baochang and Chen, Chen and Cao, Xianbin and Han, Jungong and Liu, Jianzhuang}, year={2017}, }
+@article{GaborCNNs, title={Gabor Convolutional Networks}, author={Luan, Shangzhen and chen, chen and Zhang, Baochang* and han, jungong and Liu, Jianzhuang}, year={2018}, IEEE Trans. Image processing. }
