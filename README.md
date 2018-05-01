@@ -1,4 +1,6 @@
-#We provide a demo for GCN on MNIST dataset using torch7 and also Pytorch.
+# WACV2018/TIP: Gabor Convolutional Networks
+
+We provide a demo for GCN on MNIST dataset based on **torch7** and also **PyTorch**.
 
 To run this demo, you should  install these dependencies:
 ```
@@ -17,14 +19,15 @@ run this demo:
 cd $DIR/MNIST_demo
 bash ./scripts/Train_MNIST.sh
 ```
+To run the pytorch branch, please refer to [this branch](https://github.com/bczhangbczhang/Gabor-Convolutional-Networks/tree/pytorch).
 
-#The experimental results of the comparison algorithm are directly quoted from the corresponding papers. 
+The experimental results of the comparison algorithm are directly quoted from the corresponding papers. 
 
-#Acknowledgement
+## Acknowledgement
 This demo is partially based on the code of Orientation Response Networks(ORN,`http://zhouyanzhao.github.io/ORN/`)
 If you use this demo please cite our paper and ORN. 
 
-#bibtex:
+## Bibtex
 
 @article{GaborCNNs, title={Gabor Convolutional Networks}, author={Luan, Shangzhen and chen, chen and Zhang,  Baochang*   and han, jungong and Liu, Jianzhuang}, year={2018}, IEEE Trans. Image processing.  }
 
