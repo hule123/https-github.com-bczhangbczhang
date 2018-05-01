@@ -1,4 +1,4 @@
-# WACV2018/TIP: Gabor Convolutional Networks
+# TIP: Gabor Convolutional Networks
 
 We provide a demo for GCN on MNIST dataset based on **torch7** and also **PyTorch**.
 
