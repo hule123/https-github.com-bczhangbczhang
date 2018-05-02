@@ -1,4 +1,4 @@
-# TIP: Gabor Convolutional Networks
+# Gabor CNNs, Gabor Convolutional Networks
 
 We provide a demo for GCN on MNIST dataset based on **torch7** and also **PyTorch**.
 
